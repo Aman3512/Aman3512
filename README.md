@@ -1,8 +1,9 @@
-<img align="center" src="https://cdn.shrm.org/image/upload/c_crop%2Ch_1080%2Cw_1919%2Cx_0%2Cy_0/c_fit%2Cf_auto%2Cq_auto%2Cw_767/v1/Organizational%20and%20Employee%20Development/2020-YIR-06-OrgEmp-Development-BG_ja1cwj?databtoa=eyIxNng5Ijp7IngiOjAsInkiOjAsIngyIjoxOTE5LCJ5MiI6MTA4MCwidyI6MTkxOSwiaCI6MTA4MH19" alt="aman3512" />
+
 
 <h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="aman3512" />
 
 - 🌱 I’m currently learning **Java Backend Development**
 
@@ -20,6 +21,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aman3512&show_icons=true&locale=en" alt="aman3512" /></p>
+<p><img align="left" style="width:48%" src="https://github-readme-stats.vercel.app/api?username=aman3512&show_icons=true&locale=en" alt="aman3512" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3512&" alt="aman3512" /></p>
+<p><img align="right" style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3512&" alt="aman3512" /></p>
+
