@@ -1,15 +1,29 @@
-
+<p align ="center"> <img width="830" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="anand"/> </p>
 
 <h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="aman3512" />
 
-- 🌱 I’m currently learning **Java Backend Development**
+<p align="center"><a align="center" href="https://aman3512.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile...!;Click+to+visit+my+Portfolio..." /></a></p>
 
-- 👨‍💻 All of my projects are available at [https://aman3512.github.io/](https://aman3512.github.io/)
+<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+
+<hr>
+
+<img align="right" img width="330" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="aman3512" />
+
+- 🔭 I’m currently working on **SpringBoot**
+
+- 🌱 I’m currently learning **JAVA Back-End Development**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://aman3512.github.io/)
+
+- 💬 Ask me about **Software Development related stuffs**
 
 - 📫 How to reach me **amansinghrawat361@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IJRagf3NA5H63ecQaTzQ3ypZ-jtu9MyG/view?usp=sharing)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
