@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **amansinghrawat361@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IJRagf3NA5H63ecQaTzQ3ypZ-jtu9MyG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1iQtj4AUVKAk2rFCTpS-jyqxb_s1F5fuN?usp=sharing)
 
 <br>
 
