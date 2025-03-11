@@ -2,20 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
 
-
-<p align="center"><a align="center" href="https://aman3512.github.io/"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile...!;Click+to+visit+my+Portfolio..." /></a></p>
-
 <h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
 
 <hr>
 
 <img align="right" img width="330" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="aman3512" />
 
-- 🔭 I’m currently working on **SpringBoot**
-
-- 🌱 I’m currently learning **JAVA Back-End Development**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://aman3512.github.io/)
 
 - 💬 Ask me about **Software Development related stuffs**
 
